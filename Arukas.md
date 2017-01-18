@@ -1,15 +1,19 @@
-# Arukas (Folme)
+# Arukas
 >  The Arukas team  
 > Docker Hosting service.    
  
 -------   
 ####  Account Registration Information
 
-| UseID/eMail | Password |
+| UserName | ID / eMail |
 |:----------:|:----------:|
-|   `folme2017@gmail.com`   |  `Keys#1*365`   |
-|            |            |
+|  Folme  | `folme2017@gmail.com`   |
+|  Follwme  | `folme.online@gmail.com`  |    
 
+#### Password :  
+```
+Keys#1*365
+```
 
 
 -------
